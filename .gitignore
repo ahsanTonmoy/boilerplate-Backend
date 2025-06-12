@@ -1,3 +1,11 @@
 node_modules
-.env
 .vercel
+dist
+.DS_Store
+# Logs and database files
+*.log 
+*.sqlite
+# Environment variables files
+# Build output                           
+# Dependency directories    
+# Ignore npm package lock files    
